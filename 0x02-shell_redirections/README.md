@@ -1,1 +1,1 @@
-0. Hello World
+a script that displays a confused smile

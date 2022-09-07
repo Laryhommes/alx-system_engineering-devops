@@ -14,3 +14,4 @@ drwxr-xr-x 5 root root 126 Sep  6 11:59 ..
 -rw-r--r-- 1 root root   0 Sep  7 04:01 iacta
 -rw-r--r-- 1 root root   0 Sep  7 04:45 ls_cwd_content
 -rw-r--r-- 1 root root  55 Sep  7 04:29 README.md
+ls -la
